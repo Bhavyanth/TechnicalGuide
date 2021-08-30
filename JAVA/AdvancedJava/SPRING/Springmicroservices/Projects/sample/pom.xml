@@ -19,7 +19,7 @@
 		<solace-spring-cloud.version>1.1.1</solace-spring-cloud.version>
 		<spring-boot-admin.version>2.3.0</spring-boot-admin.version>
 		<spring-cloud.version>Hoxton.SR7</spring-cloud.version>
-		<vaadin.version>14.3.3</vaadin.version>
+		<vaadin.version>14.6.8</vaadin.version>
 		<wavefront.version>2.0.0</wavefront.version>
 	</properties>
 
